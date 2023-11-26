@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Priyachowdary-alt
 - 👀 I’m interested in ...Data analytics
 - 🌱 I’m currently learning ... Data analysis tool
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lakshmipriyachandra999@gmail.com
 
 <!---
